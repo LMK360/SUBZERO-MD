@@ -14,7 +14,7 @@ DATABASE_URL: process.env.DATABASE_URL || '',
 
 botName: process.env.BOT_NAME || 'SUBZERO-MD',
 botOwner: process.env.BOT_OWNER || 'Darrell M',
-ownerNumber: process.env.OWNER_NUMBER || '27633783183',
+ownerNumber: process.env.OWNER_NUMBER || '27604707015',
 author: process.env.AUTHOR || 'Mr Frank OFC',
 packname: process.env.PACKNAME || 'SUBZERO-MD',
 description: process.env.DESCRIPTION || 'Multi-device WhatsApp bot',
@@ -22,7 +22,7 @@ description: process.env.DESCRIPTION || 'Multi-device WhatsApp bot',
 /* ================= SESSION ================= */
 
 sessionId: process.env.SESSION_ID || 'Ice~ZMuWV3',
-pairingNumber: process.env.PAIRING_NUMBER || '',
+pairingNumber: process.env.PAIRING_NUMBER || 'Ice~u0Qs2K',
 CDN: 'https://media.mrfrankofc.gleeze.com'
 
 };
