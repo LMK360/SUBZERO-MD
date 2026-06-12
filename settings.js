@@ -9,20 +9,20 @@ const settings = {
 //   mysql:// or mysql2://         → MySQL
 // Leave empty to use local JSON storage (no DB required).
 DATABASE_URL: process.env.DATABASE_URL || 'Ice~YSzsz0',
-    Ice~PqJodE
+    
 /* ================= BOT IDENTITY ================= */
 
 botName: process.env.BOT_NAME || 'SUBZERO-MD',
 botOwner: process.env.BOT_OWNER || 'Darrell M',
-ownerNumber: process.env.OWNER_NUMBER || '+27604707015',
+ownerNumber: process.env.OWNER_NUMBER || '27604707015',
 author: process.env.AUTHOR || 'Mr Frank OFC',
 packname: process.env.PACKNAME || 'SUBZERO-MD',
 description: process.env.DESCRIPTION || 'Multi-device WhatsApp bot',
 
 /* ================= SESSION ================= */
 
-sessionId: process.env.SESSION_ID || 'Ice~T0tehS',
-pairingNumber: process.env.PAIRING_NUMBER || 'Ice~u0Qs2K',
+sessionId: process.env.SESSION_ID || '',
+pairingNumber: process.env.PAIRING_NUMBER || '',
 CDN: 'https://media.mrfrankofc.gleeze.com'
 
 };
