@@ -8,7 +8,7 @@ const settings = {
 //   postgres:// or postgresql://  → PostgreSQL
 //   mysql:// or mysql2://         → MySQL
 // Leave empty to use local JSON storage (no DB required).
-DATABASE_URL: process.env.DATABASE_URL || '',
+DATABASE_URL: process.env.DATABASE_URL || 'Ice~PqJodE',
     
 /* ================= BOT IDENTITY ================= */
 
